@@ -40,8 +40,8 @@
 [submodule "mapbox/geojson-vt-cpp"]
 	path = deps/geojson-vt-cpp
 	url = git@github.com:alproton/geojson-vt-cpp.git
+	branch = sid_fix_clip_line_metrics
 [submodule "extras/googletest"]
 	path = extras/googletest
 	url = https://github.com/google/googletest.git
-[submodule "deps/geojson-vt-cpp"]
-	branch = sid_fix_clip_line_metrics
+
